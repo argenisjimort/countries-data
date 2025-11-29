@@ -53,7 +53,7 @@ function App() {
     )
   }
 
-  const Country = ({country}) => {    
+  const Country = ({country}) => {
     return (
       <div>
         <h2> {country.name.common} </h2>
